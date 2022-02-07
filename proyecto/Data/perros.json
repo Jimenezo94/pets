@@ -1,0 +1,48 @@
+{
+    "perros": [
+        {
+            "id": 1,
+            "nombre": "Poly",
+            "raza": "Yorkshire",
+            "imagen": "https://www.guiaparaperros.com/wp-content/uploads/2020/03/Yorkshire-Terrier-34.jpg",
+            "tipo":"perro"
+         
+        },
+        {
+           
+            "id": 2,
+            "nombre": "Dante",
+            "raza": "beagle",
+            "imagen": "https://animaleshoy.net/wp-content/uploads/2016/03/1946785.jpg",
+            "tipo":"perro"
+        },
+        {
+             "id": 3,
+            "nombre": "lulu",
+            "raza": "frespuder",
+            "imagen": "https://animaleshoy.net/wp-content/uploads/2016/03/3102349_640px.jpg",
+            "tipo":"perro"
+        },
+        {
+            "id": 4,
+            "nombre": "Poly",
+            "raza": "Yorkshire",
+            "imagen": "https://animaleshoy.net/wp-content/uploads/2016/03/imagenes-de-perros-rottweiler-bebes-2.jpg",
+            "tipo":"perro"
+        },
+        {
+            "id": 5,
+            "nombre": "Rocky",
+            "raza": "rottweiler",
+            "imagen": "https://www.guiaparaperros.com/wp-content/uploads/2020/03/Yorkshire-Terrier-34.jpg",
+            "tipo":"perro"
+        },
+        {
+            "id": 6,
+            "nombre": "Lucas",
+            "raza": "Pug",
+            "imagen": "https://perro.shop/wp-content/uploads/pug.jpg",
+            "tipo":"perro"
+        }
+    ]
+}

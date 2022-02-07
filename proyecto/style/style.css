@@ -1,0 +1,38 @@
+body{
+	background-color:#FEC7D7;
+}
+
+/* div {
+	column-count: 4;
+	column-width: 200px;
+	padding: 20px;
+} */
+
+
+/*footer*/
+
+ul{
+	display:flex;
+
+}
+footer {
+	height:100%;
+	width: 100%;
+	background-color: white;
+	padding: 20px;
+	display: flex;
+	justify-content: space-around;
+ }
+ .btn-categoria{
+	border-radius: 25px;
+	border: 2px solid;
+	background-color: #0E172C; /* Green */
+	border: none;
+	color: white;
+	padding: 15px 32px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	margin: 4px 2px;
+	cursor: pointer;
+ }
